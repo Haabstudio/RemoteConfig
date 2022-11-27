@@ -30,7 +30,7 @@
         },
         {
             "Name": "GoogleAdmob",
-            "AppId": "ca-app-pub-6460853351678359~8533435529",
+            "AppId": "ca-app-pub-6460853351678359/9874676006",
             "AdUnits": [
                 {
                     "Name": "Interstitial",
@@ -42,7 +42,7 @@
                 },
                 {
                     "Name": "RewardedInterstitial",
-                    "AdUnitId": "ca-app-pub-3940256099942544/5354046379"
+                    "AdUnitId": "ca-app-pub-6460853351678359/8729115295"
                 }
             ]
         }
