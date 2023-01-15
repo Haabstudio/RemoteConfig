@@ -86,7 +86,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ChapterSelect",
@@ -102,7 +102,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "ItemSelect",
@@ -182,7 +182,7 @@
                 1,
                 2
             ],
-            "Enabled": true
+            "Enabled": false
         },
         {
             "Name": "LevelFail",
