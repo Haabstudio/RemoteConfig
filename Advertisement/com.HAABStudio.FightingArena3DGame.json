@@ -33,7 +33,7 @@
         },
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/7052486096",
                 "ca-app-pub-6460853351678359/8365567766",
