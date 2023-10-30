@@ -6,8 +6,8 @@
             "ca-app-pub-6460853351678359/9371527675",
             "ca-app-pub-6460853351678359/8351370992"
         ],
-        "Enabled": false,
-        "Position": 0,
+        "Enabled": true,
+        "Position": 1,
         "Size": 4
     },
     "AdmobAdaptiveBanner": {
@@ -16,10 +16,10 @@
             "ca-app-pub-6460853351678359/7214485238",
             "ca-app-pub-6460853351678359/4779893585"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 5,
-        "Width": 300,
-        "Height": 250
+        "Width": 500,
+        "Height": 500
     },
     "AdUnits": [
         {
@@ -134,7 +134,7 @@
         },
         {
             "Name": "Gameplay",
-            "Enabled": false
+            "Enabled": true
         }
     ],
     "GameplayAdInterval": 1.0
