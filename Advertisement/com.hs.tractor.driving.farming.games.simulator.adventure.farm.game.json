@@ -137,5 +137,5 @@
             "Enabled": true
         }
     ],
-    "GameplayAdInterval": 1.0
+    "GameplayAdInterval": 180.0
 }
