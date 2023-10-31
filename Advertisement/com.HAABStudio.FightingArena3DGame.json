@@ -24,7 +24,7 @@
     "AdUnits": [
         {
             "Name": "AppOpen",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/7956721260",
                 "ca-app-pub-6460853351678359/4310772684",
@@ -42,7 +42,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/2806119325",
                 "ca-app-pub-6460853351678359/4017476250",
@@ -51,7 +51,7 @@
         },
         {
             "Name": "RewardedInterstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/7406056929",
                 "ca-app-pub-6460853351678359/9179955980",
@@ -62,75 +62,75 @@
     "Events": [
         {
             "Name": "GameStart",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "PlayBtn",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "SettingBtn",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Exit",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ModeSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "VehicleSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "CharacterSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "StoreOpen",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Home",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Next",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Retry",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelComplete",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelFail",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "RewardedAd",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Gameplay",
