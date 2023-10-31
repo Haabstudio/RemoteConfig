@@ -6,7 +6,7 @@
             "ca-app-pub-6460853351678359/3148900100",
             "ca-app-pub-6460853351678359/7028782160"
         ],
-        "Enabled": false,
+        "Enabled": true,
         "Position": 1,
         "Size": 3
     },
@@ -137,5 +137,5 @@
             "Enabled": true
         }
     ],
-    "GameplayAdInterval": 180.0
+    "GameplayAdInterval": 1.0
 }
