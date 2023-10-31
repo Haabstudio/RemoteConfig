@@ -24,7 +24,7 @@
     "AdUnits": [
         {
             "Name": "AppOpen",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/8044351179",
                 "ca-app-pub-6460853351678359/4300547287",
@@ -33,7 +33,7 @@
         },
         {
             "Name": "Interstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/5418187833",
                 "ca-app-pub-6460853351678359/6731269509",
@@ -42,7 +42,7 @@
         },
         {
             "Name": "Rewarded",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/1305335390",
                 "ca-app-pub-6460853351678359/5422057264",
@@ -51,7 +51,7 @@
         },
         {
             "Name": "RewardedInterstitial",
-            "Enabled": false,
+            "Enabled": true,
             "Ids": [
                 "ca-app-pub-6460853351678359/7022913541",
                 "ca-app-pub-6460853351678359/7811033990",
@@ -62,31 +62,31 @@
     "Events": [
         {
             "Name": "GameStart",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "PlayBtn",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "SettingBtn",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Exit",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ModeSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "LevelSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "ItemSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "VehicleSelect",
@@ -94,7 +94,7 @@
         },
         {
             "Name": "CharacterSelect",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "TeamSelect",
@@ -102,7 +102,7 @@
         },
         {
             "Name": "StoreOpen",
-            "Enabled": false
+            "Enabled": true
         },
         {
             "Name": "Pause",
@@ -134,7 +134,7 @@
         },
         {
             "Name": "Gameplay",
-            "Enabled": false
+            "Enabled": true
         }
     ],
     "GameplayAdInterval": 1.0
