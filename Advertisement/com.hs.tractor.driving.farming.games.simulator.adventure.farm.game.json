@@ -134,7 +134,7 @@
         },
         {
             "Name": "Gameplay",
-            "Enabled": true
+            "Enabled": false
         }
     ],
     "GameplayAdInterval": 0.5
